@@ -2,7 +2,7 @@ main(){
   Set<String> MycityList= {'Dhaka', 'Rangpur', 'khulna', 'Barishal'};
   // MycityList.add('value');
   
-  MycityList.add('Haripur');
+  MycityList.add('thakurgaon');
   
 
   print(MycityList);
