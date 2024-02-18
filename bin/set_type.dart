@@ -9,4 +9,9 @@ main(){
 
   print(MycityList);
 
+  var x =10;
+  var y = 3;
+  var result = x/y;
+  print(result);
+
 }
