@@ -16,6 +16,11 @@ main(){
 
   for (int i = 0; i<studentList.length; i++){
     print("Student Name ${studentList[i]};");
+    print(studentList);
+  }
+
+  for ( String item in studentList){
+    print(item);
   }
 
 }
