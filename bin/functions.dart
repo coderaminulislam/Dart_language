@@ -6,7 +6,8 @@ main(){
 
   welcomeMessage('aminul', 'dullalpara');
 
-
+double r= addfunction(26, 2.9);
+print(r);
 
 }
 
@@ -18,4 +19,11 @@ welcomeMessage( String name, [ String addess='',  int age=0])
 {
   print('Hi, Good Afternoon $name and $addess and age is $age');
   print('How are you?');
+}
+
+// return function
+
+ double addfunction (int a, double b){
+  double result = a+b;
+  return result;
 }
