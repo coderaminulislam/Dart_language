@@ -72,7 +72,7 @@ void Playing (){
 
 
 }
-
+// class obj function
 class Teacher {
  late String name;
   late int age;
