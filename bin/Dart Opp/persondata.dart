@@ -32,3 +32,24 @@ class Person{
 
 
 }
+
+class Mybio{
+  String _name;
+  String _address;
+  String sub;
+  int age;
+
+  //constructor
+  Mybio(this._name, this._address, this.sub, this.age);
+
+// method
+  _Address(){
+    print('My address is $_address;');
+  }
+
+ int Myage(){
+    return 2024- age;
+  }
+
+
+}

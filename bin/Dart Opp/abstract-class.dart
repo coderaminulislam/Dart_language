@@ -1,12 +1,14 @@
 import 'abstraction-class.dart';
 
 abstract class Student {
+
   void eating();
   void moving();
   void reading(){
     print('I am reading in computer science');
 
   }
+
 }
 
 
